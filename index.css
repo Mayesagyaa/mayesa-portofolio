@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+:root {
+  --teks-color: whitesmoke;
+}
+
+
+body {
+  background-image: url(image/bg5.jpg);
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+
+
+}
+
+
+        
+
+/* * {font-family: 'Prompt', sans-serif;} */
+
+
+  div.img {padding-top: 50px;
+           padding-right: 40px;
+           padding-bottom: 50px;
+           padding-left: 50px;
+            border-radius: 50%;;
+          }
+
+  div.awal { 
+    background-color: #1abc9c;
+    color: var(--teks-color);
+             font-size: 30px;
+             font-family: "Helvetica", sans-serif;
+             padding-top: 50px;
+             padding-right: 50px;
+             padding-bottom: 30px;
+             padding-left: 300px;
+             }
+
+  div.navbar {
+    background-color: #16a085;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: -5px;
+    font-family: "Zapf-Chancery", cursive;
+  }
+  div.paragraf { 
+                 background-color: #16a085;
+                 color: whitesmoke;
+                 font-size: 20px;
+                 font-family: "Zapf-Chancery", cursive;
+                 padding-top: 10x;
+                 padding-right: 50px;
+                 padding-left: 300px;
+                 padding-bottom: 10px;
+                 /* border-radius: 20px; */
+                }
+  div.data { font-size: 20px;
+             font-family: "Zapf-Chancery", cursive;
+             padding-right: 100px;
+             padding-bottom: 50px;
+             padding-left: 300px;
+             font-size: 20px;
+             color: whitesmoke;
+             background-color: #16a085
+            
+          }
+
+  div.table  { color: whitesmoke;
+               font-size: 23px;
+               font-family: "Zapf-Chancery", cursive;
+              }
+
+
+  div.pengalaman {color:whitesmoke;
+                  font-size: 23px;
+                  font-family: "Zapf-Chancery", cursive;}
+
+  div.inspirasi {color:whitesmoke;
+                 font-size: 23px;
+                background-color: #16a085;
+                font-family: "Zapf-Chancery", cursive;}
